@@ -1,0 +1,6 @@
+D:\Mimi\KPK\NamingIdentifiers\People\bin\Debug\People.exe.config
+D:\Mimi\KPK\NamingIdentifiers\People\bin\Debug\People.exe
+D:\Mimi\KPK\NamingIdentifiers\People\bin\Debug\People.pdb
+D:\Mimi\KPK\NamingIdentifiers\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\NamingIdentifiers\People\obj\Debug\People.exe
+D:\Mimi\KPK\NamingIdentifiers\People\obj\Debug\People.pdb

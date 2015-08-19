@@ -1,0 +1,6 @@
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\04. InheritanceAndPolymorphism\bin\Debug\_04.InheritanceAndPolymorphism.exe.config
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\04. InheritanceAndPolymorphism\bin\Debug\_04.InheritanceAndPolymorphism.exe
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\04. InheritanceAndPolymorphism\bin\Debug\_04.InheritanceAndPolymorphism.pdb
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\04. InheritanceAndPolymorphism\obj\Debug\04. InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\04. InheritanceAndPolymorphism\obj\Debug\_04.InheritanceAndPolymorphism.exe
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\04. InheritanceAndPolymorphism\obj\Debug\_04.InheritanceAndPolymorphism.pdb

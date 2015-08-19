@@ -1,0 +1,21 @@
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.Tests.dll
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.Tests.pdb
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.dll
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.pdb
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.dll
+D:\Mimi\KPK\13. Refactoring\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.Tests.dll
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.Tests.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.dll
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\bin\Debug\Matrix.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.dll
+D:\Mimi\KPK\13-Refactoring\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.pdb
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\bin\Debug\Matrix.Tests.dll
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\bin\Debug\Matrix.Tests.pdb
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\bin\Debug\Matrix.dll
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\bin\Debug\Matrix.pdb
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.dll
+D:\Mimi\KPK\13-Refactoring-old\Matrix\Matrix.Tests\obj\Debug\Matrix.Tests.pdb

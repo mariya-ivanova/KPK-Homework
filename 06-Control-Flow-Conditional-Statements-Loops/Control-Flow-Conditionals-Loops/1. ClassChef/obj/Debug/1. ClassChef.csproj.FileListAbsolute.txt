@@ -1,0 +1,6 @@
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\Control-Flow-Conditionals-Loops\1. ClassChef\bin\Debug\_1.ClassChef.exe.config
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\Control-Flow-Conditionals-Loops\1. ClassChef\obj\Debug\1. ClassChef.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\Control-Flow-Conditionals-Loops\1. ClassChef\bin\Debug\_1.ClassChef.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\Control-Flow-Conditionals-Loops\1. ClassChef\bin\Debug\_1.ClassChef.pdb
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\Control-Flow-Conditionals-Loops\1. ClassChef\obj\Debug\_1.ClassChef.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\Control-Flow-Conditionals-Loops\1. ClassChef\obj\Debug\_1.ClassChef.pdb

@@ -1,0 +1,10 @@
+D:\Mimi\KPK\11-Unit-Testing\1.StudentsAndCourses\StudentsAndCourses\School\bin\Debug\School.dll
+D:\Mimi\KPK\11-Unit-Testing\1.StudentsAndCourses\StudentsAndCourses\School\bin\Debug\School.pdb
+D:\Mimi\KPK\11-Unit-Testing\1.StudentsAndCourses\StudentsAndCourses\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\11-Unit-Testing\1.StudentsAndCourses\StudentsAndCourses\School\obj\Debug\School.dll
+D:\Mimi\KPK\11-Unit-Testing\1.StudentsAndCourses\StudentsAndCourses\School\obj\Debug\School.pdb
+D:\Mimi\KPK\11-Unit-Testing\StudentsAndCourses\School\bin\Debug\School.dll
+D:\Mimi\KPK\11-Unit-Testing\StudentsAndCourses\School\bin\Debug\School.pdb
+D:\Mimi\KPK\11-Unit-Testing\StudentsAndCourses\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\11-Unit-Testing\StudentsAndCourses\School\obj\Debug\School.dll
+D:\Mimi\KPK\11-Unit-Testing\StudentsAndCourses\School\obj\Debug\School.pdb

@@ -1,0 +1,12 @@
+D:\Mimi\C#\exam\ExamSolution\01. ThreeNumbers\bin\Debug\_01.ThreeNumbers.exe.config
+D:\Mimi\C#\exam\ExamSolution\01. ThreeNumbers\bin\Debug\_01.ThreeNumbers.exe
+D:\Mimi\C#\exam\ExamSolution\01. ThreeNumbers\bin\Debug\_01.ThreeNumbers.pdb
+D:\Mimi\C#\exam\ExamSolution\01. ThreeNumbers\obj\Debug\01. ThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Mimi\C#\exam\ExamSolution\01. ThreeNumbers\obj\Debug\_01.ThreeNumbers.exe
+D:\Mimi\C#\exam\ExamSolution\01. ThreeNumbers\obj\Debug\_01.ThreeNumbers.pdb
+D:\Mimi\C#\exam\CSharpExamSolution\01. ThreeNumbers\bin\Debug\_01.ThreeNumbers.exe.config
+D:\Mimi\C#\exam\CSharpExamSolution\01. ThreeNumbers\obj\Debug\_01.ThreeNumbers.exe
+D:\Mimi\C#\exam\CSharpExamSolution\01. ThreeNumbers\obj\Debug\_01.ThreeNumbers.pdb
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\01. ThreeNumbers\bin\Debug\_01.ThreeNumbers.exe.config
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\01. ThreeNumbers\obj\Debug\_01.ThreeNumbers.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\01. ThreeNumbers\obj\Debug\_01.ThreeNumbers.pdb

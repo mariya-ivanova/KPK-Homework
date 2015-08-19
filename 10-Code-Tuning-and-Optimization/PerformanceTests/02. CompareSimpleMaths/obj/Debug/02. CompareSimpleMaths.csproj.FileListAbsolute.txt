@@ -1,0 +1,6 @@
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\02. CompareSimpleMaths\bin\Debug\_02.CompareSimpleMaths.exe.config
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\02. CompareSimpleMaths\obj\Debug\02. CompareSimpleMaths.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\02. CompareSimpleMaths\bin\Debug\_02.CompareSimpleMaths.exe
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\02. CompareSimpleMaths\bin\Debug\_02.CompareSimpleMaths.pdb
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\02. CompareSimpleMaths\obj\Debug\_02.CompareSimpleMaths.exe
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\02. CompareSimpleMaths\obj\Debug\_02.CompareSimpleMaths.pdb

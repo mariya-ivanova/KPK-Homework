@@ -1,0 +1,6 @@
+D:\Mimi\KPK\09-Defensive-Programming-and-Exceptions\AssertionsAndExceptions\02. Exceptions\bin\Debug\_02.Exceptions.exe.config
+D:\Mimi\KPK\09-Defensive-Programming-and-Exceptions\AssertionsAndExceptions\02. Exceptions\obj\Debug\02. Exceptions.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\09-Defensive-Programming-and-Exceptions\AssertionsAndExceptions\02. Exceptions\bin\Debug\_02.Exceptions.exe
+D:\Mimi\KPK\09-Defensive-Programming-and-Exceptions\AssertionsAndExceptions\02. Exceptions\bin\Debug\_02.Exceptions.pdb
+D:\Mimi\KPK\09-Defensive-Programming-and-Exceptions\AssertionsAndExceptions\02. Exceptions\obj\Debug\_02.Exceptions.exe
+D:\Mimi\KPK\09-Defensive-Programming-and-Exceptions\AssertionsAndExceptions\02. Exceptions\obj\Debug\_02.Exceptions.pdb

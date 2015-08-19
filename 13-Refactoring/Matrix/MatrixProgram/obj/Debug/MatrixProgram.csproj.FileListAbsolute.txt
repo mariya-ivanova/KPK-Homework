@@ -1,0 +1,24 @@
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\bin\Debug\MatrixProgram.exe.config
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\bin\Debug\MatrixProgram.exe
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\bin\Debug\MatrixProgram.pdb
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\bin\Debug\Matrix.dll
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\bin\Debug\Matrix.pdb
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\obj\Debug\MatrixProgram.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\obj\Debug\MatrixProgram.exe
+D:\Mimi\KPK\13. Refactoring\Matrix\MatrixProgram\obj\Debug\MatrixProgram.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\bin\Debug\MatrixProgram.exe.config
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\obj\Debug\MatrixProgram.exe
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\obj\Debug\MatrixProgram.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\bin\Debug\MatrixProgram.exe
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\bin\Debug\MatrixProgram.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\bin\Debug\Matrix.dll
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\bin\Debug\Matrix.pdb
+D:\Mimi\KPK\13-Refactoring\Matrix\MatrixProgram\obj\Debug\MatrixProgram.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\bin\Debug\MatrixProgram.exe.config
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\obj\Debug\MatrixProgram.exe
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\obj\Debug\MatrixProgram.pdb
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\bin\Debug\MatrixProgram.exe
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\bin\Debug\MatrixProgram.pdb
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\bin\Debug\Matrix.dll
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\bin\Debug\Matrix.pdb
+D:\Mimi\KPK\13-Refactoring-old\Matrix\MatrixProgram\obj\Debug\MatrixProgram.csprojResolveAssemblyReference.cache

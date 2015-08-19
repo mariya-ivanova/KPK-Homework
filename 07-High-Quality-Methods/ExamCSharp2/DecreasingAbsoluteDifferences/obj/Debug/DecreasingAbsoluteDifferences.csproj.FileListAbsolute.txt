@@ -1,0 +1,12 @@
+D:\Mimi\C#2\exam\ExamCSharp2\DecreasingAbsoluteDifferences\bin\Debug\DecreasingAbsoluteDifferences.exe.config
+D:\Mimi\C#2\exam\ExamCSharp2\DecreasingAbsoluteDifferences\bin\Debug\DecreasingAbsoluteDifferences.exe
+D:\Mimi\C#2\exam\ExamCSharp2\DecreasingAbsoluteDifferences\bin\Debug\DecreasingAbsoluteDifferences.pdb
+D:\Mimi\C#2\exam\ExamCSharp2\DecreasingAbsoluteDifferences\obj\Debug\DecreasingAbsoluteDifferences.exe
+D:\Mimi\C#2\exam\ExamCSharp2\DecreasingAbsoluteDifferences\obj\Debug\DecreasingAbsoluteDifferences.pdb
+D:\Mimi\C#2\exam\ExamCSharp2\DecreasingAbsoluteDifferences\obj\Debug\DecreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\DecreasingAbsoluteDifferences\bin\Debug\DecreasingAbsoluteDifferences.exe.config
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\DecreasingAbsoluteDifferences\obj\Debug\DecreasingAbsoluteDifferences.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\DecreasingAbsoluteDifferences\obj\Debug\DecreasingAbsoluteDifferences.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\DecreasingAbsoluteDifferences\bin\Debug\DecreasingAbsoluteDifferences.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\DecreasingAbsoluteDifferences\bin\Debug\DecreasingAbsoluteDifferences.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\DecreasingAbsoluteDifferences\obj\Debug\DecreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache

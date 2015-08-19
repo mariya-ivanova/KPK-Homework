@@ -1,0 +1,6 @@
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\03. ConsoleApplication1\bin\Debug\_03.ConsoleApplication1.exe.config
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\03. ConsoleApplication1\bin\Debug\_03.ConsoleApplication1.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\03. ConsoleApplication1\bin\Debug\_03.ConsoleApplication1.pdb
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\03. ConsoleApplication1\obj\Debug\03. ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\03. ConsoleApplication1\obj\Debug\_03.ConsoleApplication1.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\03. ConsoleApplication1\obj\Debug\_03.ConsoleApplication1.pdb

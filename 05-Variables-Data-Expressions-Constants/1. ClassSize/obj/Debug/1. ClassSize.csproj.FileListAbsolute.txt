@@ -1,0 +1,6 @@
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\1. ClassSize\bin\Debug\_1.ClassSize.exe.config
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\1. ClassSize\bin\Debug\_1.ClassSize.exe
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\1. ClassSize\bin\Debug\_1.ClassSize.pdb
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\1. ClassSize\obj\Debug\1. ClassSize.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\1. ClassSize\obj\Debug\_1.ClassSize.exe
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\1. ClassSize\obj\Debug\_1.ClassSize.pdb

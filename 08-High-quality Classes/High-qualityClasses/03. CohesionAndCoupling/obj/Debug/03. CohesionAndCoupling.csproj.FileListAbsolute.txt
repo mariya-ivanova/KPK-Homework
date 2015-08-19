@@ -1,0 +1,6 @@
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\03. CohesionAndCoupling\bin\Debug\_03.CohesionAndCoupling.exe.config
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\03. CohesionAndCoupling\bin\Debug\_03.CohesionAndCoupling.exe
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\03. CohesionAndCoupling\bin\Debug\_03.CohesionAndCoupling.pdb
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\03. CohesionAndCoupling\obj\Debug\_03.CohesionAndCoupling.exe
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\03. CohesionAndCoupling\obj\Debug\_03.CohesionAndCoupling.pdb
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\03. CohesionAndCoupling\obj\Debug\03. CohesionAndCoupling.csprojResolveAssemblyReference.cache

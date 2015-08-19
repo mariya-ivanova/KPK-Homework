@@ -1,0 +1,6 @@
+D:\Mimi\KPK\04-Documentation\StringExtensions\bin\Debug\StringExtensions.dll
+D:\Mimi\KPK\04-Documentation\StringExtensions\bin\Debug\StringExtensions.pdb
+D:\Mimi\KPK\04-Documentation\StringExtensions\obj\Debug\StringExtensions.dll
+D:\Mimi\KPK\04-Documentation\StringExtensions\obj\Debug\StringExtensions.pdb
+D:\Mimi\KPK\04-Documentation\StringExtensions\bin\Debug\StringExtensions.XML
+D:\Mimi\KPK\04-Documentation\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache

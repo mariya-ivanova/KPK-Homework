@@ -1,0 +1,12 @@
+D:\Mimi\C#2\exam\ExamCSharp2\EnigmaCat\bin\Debug\EnigmaCat.exe.config
+D:\Mimi\C#2\exam\ExamCSharp2\EnigmaCat\bin\Debug\EnigmaCat.exe
+D:\Mimi\C#2\exam\ExamCSharp2\EnigmaCat\bin\Debug\EnigmaCat.pdb
+D:\Mimi\C#2\exam\ExamCSharp2\EnigmaCat\obj\Debug\EnigmaCat.csprojResolveAssemblyReference.cache
+D:\Mimi\C#2\exam\ExamCSharp2\EnigmaCat\obj\Debug\EnigmaCat.exe
+D:\Mimi\C#2\exam\ExamCSharp2\EnigmaCat\obj\Debug\EnigmaCat.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\EnigmaCat\bin\Debug\EnigmaCat.exe.config
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\EnigmaCat\obj\Debug\EnigmaCat.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\EnigmaCat\obj\Debug\EnigmaCat.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\EnigmaCat\bin\Debug\EnigmaCat.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\EnigmaCat\bin\Debug\EnigmaCat.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\EnigmaCat\obj\Debug\EnigmaCat.csprojResolveAssemblyReference.cache

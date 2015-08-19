@@ -1,0 +1,5 @@
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\03. CompareAdvancedMaths\bin\Debug\_03.CompareAdvancedMaths.exe.config
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\03. CompareAdvancedMaths\bin\Debug\_03.CompareAdvancedMaths.exe
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\03. CompareAdvancedMaths\bin\Debug\_03.CompareAdvancedMaths.pdb
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\03. CompareAdvancedMaths\obj\Debug\_03.CompareAdvancedMaths.exe
+D:\Mimi\KPK\10-Code-Tuning-and-Optimization\PerformanceTests\03. CompareAdvancedMaths\obj\Debug\_03.CompareAdvancedMaths.pdb

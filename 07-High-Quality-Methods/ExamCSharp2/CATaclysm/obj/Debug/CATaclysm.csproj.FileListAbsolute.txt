@@ -1,0 +1,12 @@
+D:\Mimi\C#2\exam\ExamCSharp2\CATaclysm\bin\Debug\CATaclysm.exe.config
+D:\Mimi\C#2\exam\ExamCSharp2\CATaclysm\bin\Debug\CATaclysm.exe
+D:\Mimi\C#2\exam\ExamCSharp2\CATaclysm\bin\Debug\CATaclysm.pdb
+D:\Mimi\C#2\exam\ExamCSharp2\CATaclysm\obj\Debug\CATaclysm.csprojResolveAssemblyReference.cache
+D:\Mimi\C#2\exam\ExamCSharp2\CATaclysm\obj\Debug\CATaclysm.exe
+D:\Mimi\C#2\exam\ExamCSharp2\CATaclysm\obj\Debug\CATaclysm.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CATaclysm\bin\Debug\CATaclysm.exe.config
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CATaclysm\obj\Debug\CATaclysm.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CATaclysm\obj\Debug\CATaclysm.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CATaclysm\bin\Debug\CATaclysm.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CATaclysm\bin\Debug\CATaclysm.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CATaclysm\obj\Debug\CATaclysm.csprojResolveAssemblyReference.cache

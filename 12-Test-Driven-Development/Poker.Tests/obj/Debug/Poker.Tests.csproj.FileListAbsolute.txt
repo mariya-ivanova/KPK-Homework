@@ -1,0 +1,8 @@
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\bin\Debug\Poker.Tests.dll
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\bin\Debug\Poker.Tests.pdb
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\bin\Debug\Poker.exe
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\bin\Debug\Poker.pdb
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.dll
+D:\Mimi\KPK\12-Test-Driven-Development\Poker.Tests\obj\Debug\Poker.Tests.pdb

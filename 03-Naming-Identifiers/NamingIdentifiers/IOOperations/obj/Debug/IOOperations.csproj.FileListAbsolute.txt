@@ -1,0 +1,6 @@
+D:\Mimi\KPK\NamingIdentifiers\IOOperations\bin\Debug\IOOperations.exe.config
+D:\Mimi\KPK\NamingIdentifiers\IOOperations\obj\Debug\IOOperations.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\NamingIdentifiers\IOOperations\bin\Debug\IOOperations.exe
+D:\Mimi\KPK\NamingIdentifiers\IOOperations\bin\Debug\IOOperations.pdb
+D:\Mimi\KPK\NamingIdentifiers\IOOperations\obj\Debug\IOOperations.exe
+D:\Mimi\KPK\NamingIdentifiers\IOOperations\obj\Debug\IOOperations.pdb

@@ -1,0 +1,5 @@
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\2. PrintStatistics\bin\Debug\_2.PrintStatistics.exe.config
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\2. PrintStatistics\bin\Debug\_2.PrintStatistics.exe
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\2. PrintStatistics\bin\Debug\_2.PrintStatistics.pdb
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\2. PrintStatistics\obj\Debug\_2.PrintStatistics.exe
+D:\Mimi\KPK\05.Variables-Data-Expressions-Constants\2. PrintStatistics\obj\Debug\_2.PrintStatistics.pdb

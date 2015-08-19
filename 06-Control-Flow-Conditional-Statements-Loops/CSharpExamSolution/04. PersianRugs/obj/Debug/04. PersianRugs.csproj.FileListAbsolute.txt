@@ -1,0 +1,15 @@
+D:\Mimi\C#\exam\ExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.exe.config
+D:\Mimi\C#\exam\ExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.exe
+D:\Mimi\C#\exam\ExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.pdb
+D:\Mimi\C#\exam\ExamSolution\04. PersianRugs\obj\Debug\04. PersianRugs.csprojResolveAssemblyReference.cache
+D:\Mimi\C#\exam\ExamSolution\04. PersianRugs\obj\Debug\_04.PersianRugs.exe
+D:\Mimi\C#\exam\ExamSolution\04. PersianRugs\obj\Debug\_04.PersianRugs.pdb
+D:\Mimi\C#\exam\CSharpExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.exe.config
+D:\Mimi\C#\exam\CSharpExamSolution\04. PersianRugs\obj\Debug\_04.PersianRugs.exe
+D:\Mimi\C#\exam\CSharpExamSolution\04. PersianRugs\obj\Debug\_04.PersianRugs.pdb
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.exe.config
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\04. PersianRugs\obj\Debug\_04.PersianRugs.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\04. PersianRugs\obj\Debug\_04.PersianRugs.pdb
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.exe
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\04. PersianRugs\bin\Debug\_04.PersianRugs.pdb
+D:\Mimi\KPK\HW-06-Control-Flow-Conditional-Statements-Loops\CSharpExamSolution\04. PersianRugs\obj\Debug\04. PersianRugs.csprojResolveAssemblyReference.cache

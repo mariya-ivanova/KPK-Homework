@@ -1,0 +1,6 @@
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\01-02. GoodAbstractionAndEncapsulation\bin\Debug\_01_02.GoodAbstractionAndEncapsulation.exe.config
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\01-02. GoodAbstractionAndEncapsulation\bin\Debug\_01_02.GoodAbstractionAndEncapsulation.exe
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\01-02. GoodAbstractionAndEncapsulation\bin\Debug\_01_02.GoodAbstractionAndEncapsulation.pdb
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\01-02. GoodAbstractionAndEncapsulation\obj\Debug\01-02. GoodAbstractionAndEncapsulation.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\01-02. GoodAbstractionAndEncapsulation\obj\Debug\_01_02.GoodAbstractionAndEncapsulation.exe
+D:\Mimi\KPK\08. High-quality Classes\High-qualityClasses\01-02. GoodAbstractionAndEncapsulation\obj\Debug\_01_02.GoodAbstractionAndEncapsulation.pdb

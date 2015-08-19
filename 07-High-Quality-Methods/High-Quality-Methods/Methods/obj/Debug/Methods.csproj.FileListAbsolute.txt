@@ -1,0 +1,6 @@
+D:\Mimi\KPK\07. High-Quality-Methods\High-Quality-Methods\Methods\bin\Debug\Methods.exe.config
+D:\Mimi\KPK\07. High-Quality-Methods\High-Quality-Methods\Methods\bin\Debug\Methods.exe
+D:\Mimi\KPK\07. High-Quality-Methods\High-Quality-Methods\Methods\bin\Debug\Methods.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\High-Quality-Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\07. High-Quality-Methods\High-Quality-Methods\Methods\obj\Debug\Methods.exe
+D:\Mimi\KPK\07. High-Quality-Methods\High-Quality-Methods\Methods\obj\Debug\Methods.pdb

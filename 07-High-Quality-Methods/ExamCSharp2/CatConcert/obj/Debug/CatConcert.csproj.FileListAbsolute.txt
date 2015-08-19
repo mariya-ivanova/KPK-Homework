@@ -1,0 +1,12 @@
+D:\Mimi\C#2\exam\ExamCSharp2\CatConcert\bin\Debug\CatConcert.exe.config
+D:\Mimi\C#2\exam\ExamCSharp2\CatConcert\bin\Debug\CatConcert.exe
+D:\Mimi\C#2\exam\ExamCSharp2\CatConcert\bin\Debug\CatConcert.pdb
+D:\Mimi\C#2\exam\ExamCSharp2\CatConcert\obj\Debug\CatConcert.csprojResolveAssemblyReference.cache
+D:\Mimi\C#2\exam\ExamCSharp2\CatConcert\obj\Debug\CatConcert.exe
+D:\Mimi\C#2\exam\ExamCSharp2\CatConcert\obj\Debug\CatConcert.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CatConcert\bin\Debug\CatConcert.exe.config
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CatConcert\obj\Debug\CatConcert.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CatConcert\obj\Debug\CatConcert.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CatConcert\bin\Debug\CatConcert.exe
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CatConcert\bin\Debug\CatConcert.pdb
+D:\Mimi\KPK\07. High-Quality-Methods\ExamCSharp2\CatConcert\obj\Debug\CatConcert.csprojResolveAssemblyReference.cache

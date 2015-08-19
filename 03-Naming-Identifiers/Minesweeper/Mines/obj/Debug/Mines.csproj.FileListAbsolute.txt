@@ -1,0 +1,12 @@
+D:\Mimi\KPK\Minesweeper\Mines\bin\Debug\Mines.exe.config
+D:\Mimi\KPK\Minesweeper\Mines\bin\Debug\Mines.exe
+D:\Mimi\KPK\Minesweeper\Mines\bin\Debug\Mines.pdb
+D:\Mimi\KPK\Minesweeper\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\Minesweeper\Mines\obj\Debug\Mines.exe
+D:\Mimi\KPK\Minesweeper\Mines\obj\Debug\Mines.pdb
+D:\Mimi\KPK\HW-03-Naming-Identifiers\Minesweeper\Mines\bin\Debug\Mines.exe.config
+D:\Mimi\KPK\HW-03-Naming-Identifiers\Minesweeper\Mines\obj\Debug\Mines.exe
+D:\Mimi\KPK\HW-03-Naming-Identifiers\Minesweeper\Mines\obj\Debug\Mines.pdb
+D:\Mimi\KPK\HW-03-Naming-Identifiers\Minesweeper\Mines\bin\Debug\Mines.exe
+D:\Mimi\KPK\HW-03-Naming-Identifiers\Minesweeper\Mines\bin\Debug\Mines.pdb
+D:\Mimi\KPK\HW-03-Naming-Identifiers\Minesweeper\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache

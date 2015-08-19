@@ -1,0 +1,12 @@
+D:\Mimi\C#\exam\ExamSolution\02. Decoding\bin\Debug\_02.Decoding.exe.config
+D:\Mimi\C#\exam\ExamSolution\02. Decoding\bin\Debug\_02.Decoding.exe
+D:\Mimi\C#\exam\ExamSolution\02. Decoding\bin\Debug\_02.Decoding.pdb
+D:\Mimi\C#\exam\ExamSolution\02. Decoding\obj\Debug\_02.Decoding.exe
+D:\Mimi\C#\exam\ExamSolution\02. Decoding\obj\Debug\_02.Decoding.pdb
+D:\Mimi\C#\exam\ExamSolution\02. Decoding\obj\Debug\02. Decoding.csprojResolveAssemblyReference.cache
+D:\Mimi\C#\exam\CSharpExamSolution\02. Decoding\bin\Debug\_02.Decoding.exe.config
+D:\Mimi\C#\exam\CSharpExamSolution\02. Decoding\obj\Debug\_02.Decoding.exe
+D:\Mimi\C#\exam\CSharpExamSolution\02. Decoding\obj\Debug\_02.Decoding.pdb
+D:\Mimi\C#\exam\CSharpExamSolution\02. Decoding\bin\Debug\_02.Decoding.exe
+D:\Mimi\C#\exam\CSharpExamSolution\02. Decoding\bin\Debug\_02.Decoding.pdb
+D:\Mimi\C#\exam\CSharpExamSolution\02. Decoding\obj\Debug\02. Decoding.csprojResolveAssemblyReference.cache

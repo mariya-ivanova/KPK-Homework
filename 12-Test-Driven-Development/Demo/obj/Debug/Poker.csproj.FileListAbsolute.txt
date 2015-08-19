@@ -1,0 +1,10 @@
+D:\Mimi\KPK\High-Quality-Code-master\High-Quality-Code-master\12. Test-Driven Development\Demo\bin\Debug\Poker.exe
+D:\Mimi\KPK\High-Quality-Code-master\High-Quality-Code-master\12. Test-Driven Development\Demo\bin\Debug\Poker.pdb
+D:\Mimi\KPK\High-Quality-Code-master\High-Quality-Code-master\12. Test-Driven Development\Demo\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Mimi\KPK\High-Quality-Code-master\High-Quality-Code-master\12. Test-Driven Development\Demo\obj\Debug\Poker.exe
+D:\Mimi\KPK\High-Quality-Code-master\High-Quality-Code-master\12. Test-Driven Development\Demo\obj\Debug\Poker.pdb
+D:\Mimi\KPK\12-Test-Driven-Development\Demo\obj\Debug\Poker.exe
+D:\Mimi\KPK\12-Test-Driven-Development\Demo\obj\Debug\Poker.pdb
+D:\Mimi\KPK\12-Test-Driven-Development\Demo\bin\Debug\Poker.exe
+D:\Mimi\KPK\12-Test-Driven-Development\Demo\bin\Debug\Poker.pdb
+D:\Mimi\KPK\12-Test-Driven-Development\Demo\obj\Debug\Poker.csprojResolveAssemblyReference.cache
