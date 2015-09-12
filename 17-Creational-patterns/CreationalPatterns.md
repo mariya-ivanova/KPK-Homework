@@ -325,4 +325,4 @@ Builder шаблонът се **имплементира** чрез Builder кл
 
 * **Структура**
 	
-![Object pool](ObjectPool.jpg)
+![Object pool](ObjectPool.png)
